@@ -49,8 +49,16 @@
 #### Project editor app - 박문주
 - 프로젝트 등록 파트 뷰 구현(HTML, CSS, JS, Tiles)
 - `datepicker`와 공휴일api를 이용해 제 7영업일 구하는 로직 구현
-- 프로젝트에 포함되는 상품(아이템 및 선물) CRUD 
+  - 시연영상
+  - [![Video Label](http://img.youtube.com/vi/jkXEFxm6g3I/0.jpg)](https://youtube.be/jkXEFxm6g3I)
+- 프로젝트에 포함되는 상품(아이템 및 선물) CRUD
+  - 시연영상1 (아이템 및 선물 등록하기)
+  - [![Video Label](http://img.youtube.com/vi/C_Hq-qYaYjE/0.jpg)](https://youtube.be/C_Hq-qYaYjE)
+  - 시연영상2 (아이템 및 선물 수정, 삭제하기)
+  - [![Video Label](http://img.youtube.com/vi/NHJxFmS8hd8/0.jpg)](https://youtube.be/NHJxFmS8hd8)
 - 위즈윅 에디터를 활용한 상품 이미지 업로드 및 상품 설명 CRUD
+  - 시연영상
+  - [![Video Label](http://img.youtube.com/vi/7mxksVANis4/0.jpg)](https://youtube.be/7mxksVANis4)
 
 #### Chat app - 한윤재
 - `stomp` 프로토콜을 활용한 소켓 채팅 프로그램 작성
